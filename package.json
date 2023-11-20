@@ -1,0 +1,15 @@
+{
+  "name": "conditional-compilation-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-replace": "^5.0.5",
+    "rollup": "^4.5.0"
+  }
+}
